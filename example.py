@@ -1,0 +1,2 @@
+name = "pepe"
+print(type(""))
